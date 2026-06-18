@@ -1,4 +1,3 @@
-# car-sales-dashboard-projet-Power-BI-
 # 🚗 Car Sales Dashboard | Power BI
 
 ## 📌 Project Overview
